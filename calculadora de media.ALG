@@ -14,6 +14,7 @@ media:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("Esse projeto está dentro do github!")
 escreval("####calculadorde media####")
 escreval("")
 escreval("digite o nome do aluno:")
